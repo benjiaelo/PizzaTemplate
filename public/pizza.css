@@ -1,0 +1,11 @@
+.carousel-item>img{
+	height: 500px !important;
+                  }
+nav{
+	background-color: #800000;
+	color: white;
+   }
+footer{
+       background-color: #800000;
+       height: 40px;
+   	  }
